@@ -42,7 +42,7 @@ Ensure you have the following installed:
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MGJillaniMughal/DeepSeek-R1-RAG-Assistant-Advanced-Retrieval-AI-for-Documents.git
+   git clone https://github.com/starme208/DeepSeek-R1-RAG-Assistant-Advanced-Retrieval-AI-for-Documents.git
    cd DeepSeek-R1-RAG-Assistant-Advanced-Retrieval-AI-for-Documents
    ```
 
@@ -124,13 +124,3 @@ Interact with textbooks or study materials for better comprehension.
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
-
-## 📞 Contact
-For inquiries or collaboration opportunities:
-- **👤 Name**: Muhammad Ghulam Jillani (Jillani SoftTech)
-- **📧 Email**: m.g.jillani123@gmail.com
-- **📌 LinkedIn**: [Jillani SoftTech](https://www.linkedin.com/in/jillanisofttech/)
-- **🐙 GitHub**: [MGJillaniMughal](https://github.com/MGJillaniMughal)
-
-🚀 **Empowering AI solutions with Jillani SoftTech!**
